@@ -1,4 +1,4 @@
-# Rakesh Motghare
+[# Rakesh Motghare
 
 **Senior Backend & Cloud Engineer** · Bothell, WA
 
@@ -56,3 +56,4 @@ A summary of the hands-on work I've been doing to build production-relevant AI s
 Deepening expertise in agentic AI orchestration, LLMOps and evaluation frameworks,
 AI security (prompt injection, data leakage), and Azure AI services (Azure OpenAI,
 AI Foundry, AI Search).
+](https://github.com/rakeshmotghare/rakeshmotghare)
