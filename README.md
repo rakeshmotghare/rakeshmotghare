@@ -1,6 +1,7 @@
 # Rakesh Motghare
 
 **Senior Backend & Cloud Engineer** · Bothell, WA
+
 20+ years building scalable distributed systems and cloud-native platforms on Azure for Fortune 500 companies and large enterprises.
 
 [LinkedIn](https://linkedin.com/in/rakeshmotghare) · rakesh.motghare@gmail.com
